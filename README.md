@@ -1,9 +1,11 @@
 # Okular Framework
 ***Твой проводник в мир интернета и белого хакинга***
+
 Okular Framework - это программа для взаимодействия с интернетом, для проведения пентеста, работы с Linux и OSINT
 ---
 ### Лицензия: GNU GPL v3
 Подробнее смотрите в файле License
+
 	Okular Framework - is a program for interacting with the Internet, for conducting penetration testing, working with Linux and OSINT
     Copyright (C) 2022, 2023 Okulus Dev (Alexeev Bronislav)
 
